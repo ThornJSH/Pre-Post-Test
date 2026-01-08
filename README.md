@@ -1,4 +1,4 @@
-# Pre-Post Analysis Tool (C# Portable Version)
+# Pre-Post Analysis Tool (Paired Test / C# Portable Version)
 
 ## 📌 소개 (Introduction)
 이 프로그램은 사회복지 실천 현장 및 연구에서 사전-사후 검사 결과를 손쉽게 분석할 수 있도록 돕는 도구입니다. 복잡한 통계 프로그램 없이, 데이터를 복사해 붙여넣는 것만으로 결과를 즉시 확인할 수 있습니다.
@@ -36,3 +36,4 @@ build_universal.bat
 
 ---
 Produced and distributed by **welfareact.net**
+
